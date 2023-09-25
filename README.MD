@@ -1,6 +1,6 @@
 ## Hosted Project
 
-[E-Commerce API Render URL](https://jobs-api-g8dw.onrender.com)
+[Jobs API Render URL](https://jobs-api-g8dw.onrender.com)
 
 
 #### Project Setup
